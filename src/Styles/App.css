@@ -1,0 +1,12 @@
+.app {
+    background-color: #1A332E;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.container {
+    width: 100vw;
+    height: 3655px;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,26 @@
+.footer {
+    position: absolute;
+    padding: 0 10rem;
+    top: 3450px;
+}
+
+.linked-icon {
+    position: relative;
+    left: 40px;
+}
+
+.my-email {
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white;
+}
+
+.footer-line {
+    width: 300px;
+    position: relative; 
+    bottom: 33px;
+    left: 180px;
+    background-color: #82FFE8;
+    border-color: #82FFE8;
+    height: 4px;
+}

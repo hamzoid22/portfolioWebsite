@@ -1,0 +1,39 @@
+.contact-section {
+    width: 100vw;
+    position: absolute;
+    top: 2750px;
+    padding: 0 10rem;
+}
+
+.contact-text {
+    font-family: Montserrat;
+}
+
+.contact-small-title {
+    font-size: 20px;
+    color: #82FFE8;
+    position: relative;
+    left: 450px;
+}
+
+.contact-big-title {
+    font-size: 30px;
+    color: white;
+    position: relative;
+    left: 280px;
+}
+
+.contact-line {
+    width: 300px;
+    position: relative; 
+    bottom: 33px;
+    right: 210px;
+    background-color: #82FFE8;
+    border-color: #82FFE8;
+    height: 4px;
+}
+
+.form {
+    position: relative;
+    top: 200px;
+}

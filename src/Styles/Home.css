@@ -1,0 +1,53 @@
+.home-section {
+    position: absolute;
+    width: 100vw;
+    top: 270px;
+    left: 170px;
+    align-items: center;
+}
+
+.memoji {
+    position: relative;
+    left: 200px;
+    bottom: 70px;
+    object-fit: cover;
+}
+
+.home-text {
+    position: relative;
+    display: flexbox;
+    float: left;
+}
+
+.home-text h1 {
+    font-family: Montserrat;
+}
+
+.name-title {
+    color: #82FFE8;
+    font-size: 20px;
+}
+
+.big-title {
+    color: white;
+    font-size: 42px;
+    line-height: 60px;
+    margin-top: 40px;
+    max-width: fit-content;
+}
+
+.summary-text {
+    color: white;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Montserrat;
+    margin-top: 10px;
+}
+
+.signature {
+    color: white;
+    font-family: Abuget;
+    font-size: 50px;
+    margin-top: 40px;
+}
+

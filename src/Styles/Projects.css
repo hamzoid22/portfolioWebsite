@@ -1,0 +1,247 @@
+.projects-section {
+    width: 100vw;
+    position: absolute;
+    top: 1530px;
+    padding: 0 10rem;
+}
+
+.finch {
+    border-radius: 30px;
+}
+
+.projects-section h1 {
+    font-family: Montserrat ;
+    color: white;
+}
+
+.projects-section p {
+    font-family: Montserrat ;
+    color: white;
+}
+
+.finch-section img {
+    object-fit: cover;
+}
+
+.projects-title {
+    color: white;
+    font-family: Montserrat;
+    font-size: 30px;
+}
+
+.projects-line {
+    width: 300px;
+    position: relative;
+    bottom: 33px;
+    right: 70px;
+    background-color: #82FFE8;
+    height: 4px;
+    border-color: #82FFE8;
+}
+
+.finch-box {
+    position: absolute;
+    top: 70px;
+    left: 575px;
+}
+
+.projects-section p {
+    color: white;
+    font-size: 15px;
+}
+
+.finch-text {
+    font-family: Montserrat;
+    position: relative;
+    bottom: 210px;
+    left: 600px;  
+}
+
+.projects-section img {
+    object-fit: cover;
+    transition: all 0.2s linear;
+}
+
+.finch:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.finch-title {
+    font-size: 20px;
+    position: relative;
+    left: 640px;
+    bottom: 380px;
+}
+
+.finch-tech1 {
+    font-size: 15px;
+    position: relative;
+    left: 640px;
+    bottom: 190px;
+}
+
+.finch-tech2 {
+    font-size: 15px;
+    position: relative;
+    left: 750px;
+    bottom: 223px;
+}
+
+.finch-tech3 {
+    font-size: 15px;
+    position: relative;
+    left: 890px;
+    bottom: 256px;
+}
+
+.neo {
+    border-radius: 30px;
+    position: relative;
+    left: 525px;
+    top: 360px;
+}
+
+.neo-box {
+    position: relative;
+    top: 280px;
+    right: 620px;
+}
+
+.neo:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.neo-title {
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+}
+
+.neo-text {
+    font-size: 15px;
+    position: relative;
+    top: 88px;
+    left: 20px;
+}
+
+.neo-tech1 {
+    font-size: 15px;
+    position: relative;
+    top: 130px;
+    left: 20px;
+}
+
+.neo-tech2 {
+    font-size: 15px;
+    position: relative;
+    top: 97px;
+    left: 100px;
+}
+
+.neo-tech3 {
+    font-size: 15px;
+    position: relative;
+    top: 63px;
+    left: 190px;
+}
+
+.neo-tech4 {
+    font-size: 15px;
+    position: relative;
+    top: 30px;
+    left: 270px;
+}
+
+.neo-tech5 {
+    font-size: 15px;
+    position: relative;
+    bottom: 4px;
+    left: 380px;
+}
+
+.neo-tech6 {
+    font-size: 15px;
+    position: relative;
+    bottom: 37px;
+    left: 480px;
+}
+
+.pharma {
+    border-radius: 30px;
+    top: 720px;
+    position: relative;
+}
+
+.pharma:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.pharma-box {
+    position: relative;
+    top: 655px;
+    right: 50px;
+}
+
+.pharma-title {
+    font-size: 20px;
+    position: relative;
+    top: 425px;
+    left: 640px;
+}
+
+.pharma-text{
+    font-size: 20px;
+    position: relative;
+    top: 475px;
+    left: 600px;
+}
+
+.pharma-tech1 {
+    font-size: 15px;
+    position: relative;
+    top: 525px;
+    left: 650px;
+}
+
+.pharma-tech2 {
+    font-size: 15px;
+    position: relative;
+    top: 491px;
+    left: 735px;
+}
+
+.pharma-tech3 {
+    font-size: 15px;
+    position: relative;
+    top: 458px;
+    left: 850px;
+}
+
+.pharma-tech4 {
+    font-size: 15px;
+    position: relative;
+    top: 425px;
+    left: 950px;
+}
+
+.pharma-tech5 {
+    font-size: 15px;
+    position: relative;
+    top: 391px;
+    left: 1060px;
+}
+
+.finch-section {
+    position: absolute;
+}
+
+.neo-section {
+    position: absolute;
+}
+
+.pharma-section {
+    position: absolute;
+}

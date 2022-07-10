@@ -1,0 +1,47 @@
+.contact-form {
+    width: 100vw;
+    position: absolute;
+    left: 100px;
+    bottom: -250px;
+}
+
+.form-group {
+    width: 100vw;
+    margin-bottom: 20px;
+}
+
+::placeholder{
+    color: white;
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white;
+}
+
+.contact-form button {
+    font-family: Montserrat;
+    font-size: 15px;
+    background-color: #1A332E;
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 30px;
+    width: 104px;
+    color: white;
+    outline-color: white;
+    outline-style: solid;
+}
+
+.contact-form input, textarea {
+    width: 888px;
+    font-size: 15px;
+    padding: 20px;
+    background-color: #1A332E;
+    outline-color: white;
+    outline-style: solid;
+    border-radius: 30px;
+    color: white;
+}
+
+.contact-form textarea {
+    min-height: 186px;
+    resize: vertical;
+}
