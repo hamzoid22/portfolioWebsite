@@ -10,7 +10,7 @@
     margin-bottom: 20px;
 }
 
-::placeholder{
+::placeholder {
     color: white;
     font-family: Montserrat;
     font-size: 15px;
@@ -36,9 +36,17 @@
     color: white;
     outline-color: white;
     outline-style: solid;
+    outline: auto;
 }
 
-.contact-form input, textarea {
+.contact-form button:hover {
+    background-color: grey;
+    cursor: pointer;
+    outline: auto;
+}
+
+.contact-form input,
+textarea {
     width: 888px;
     font-size: 15px;
     padding: 20px;
