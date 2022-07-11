@@ -2,7 +2,7 @@
     width: 100vw;
     position: absolute;
     left: 100px;
-    bottom: -250px;
+    bottom: -350px;
 }
 
 .form-group {
@@ -15,6 +15,14 @@
     font-family: Montserrat;
     font-size: 15px;
     color: white;
+}
+
+.contact-form input[type=text] {
+    font-family: Montserrat;
+}
+
+.contact-form textarea[type=text] {
+    font-family: Montserrat;
 }
 
 .contact-form button {
@@ -42,6 +50,6 @@
 }
 
 .contact-form textarea {
-    min-height: 186px;
-    resize: vertical;
+    min-height: 300px;
+    resize: none;
 }
