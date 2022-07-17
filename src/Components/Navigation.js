@@ -12,8 +12,7 @@ function Navigation() {
             width='101'
             height='101'
             className='website-logo'
-            />
-
+            alt='my-logo' />
             <ul>
                 <li>
                     <Link to='home' spy={true} smooth={true} offset={-220} duration={500}> Home</Link>
@@ -29,7 +28,6 @@ function Navigation() {
                 </li>
             </ul>
         </nav>
-
     </>
   )
 }

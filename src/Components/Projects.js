@@ -13,11 +13,13 @@ function Projects() {
             <img src={finchPicture} 
             width='618.22px'
             height='320px'
-            className='finch' />
+            className='finch' 
+            alt='' />
             <img src={greenBox} 
             width='570px'
             height='171'
-            className='finch-box'/>
+            className='finch-box'
+            alt='' />
             <p className='finch-text'>A program implemented for a Finch robot with navigation, object <br/> detection and draw shape 
             capabilities. Each function performed is <br/> based on the user input.</p>
             <h1 className='finch-title'>Finch Robot Game</h1>
@@ -29,11 +31,13 @@ function Projects() {
           <img src={neoTerra} 
               width='618.22px'
               height='320px'
-              className='neo' />
+              className='neo' 
+              alt='' />
             <img src={greenBox} 
               width='570px'
               height='171'
-              className='neo-box'/>
+              className='neo-box'
+              alt='' />
             <h1 className='neo-title'>Neo Terra</h1>
             <p className='neo-text'>A web application implemented to address the 13th UN Sustainable <br/> Development Goal - Climate Action. 
             The application consists of articles <br/> regarding climate change and its consequences, a quiz to test the users <br/> knowledge and 
@@ -49,11 +53,13 @@ function Projects() {
           <img src={pharmaChain} 
             width='618.22px'
             height='320px'
-            className='pharma' />
+            className='pharma'
+            alt='' />
           <img src={greenBox} 
             width='570px'
             height='171'
-            className='pharma-box'/>
+            className='pharma-box'
+            alt='' />
           <h1 className='pharma-title'>PharmaChain</h1>
           <p className='pharma-text'>A decentralised web application was built to combat the growing <br/> issue of falsified pharmaceutical 
           products. The back end of the <br/> application is a smart contract that operates on the Ethereum <br/> blockchain</p>

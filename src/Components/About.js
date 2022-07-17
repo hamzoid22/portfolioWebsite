@@ -8,7 +8,8 @@ function About() {
         <img src={face}
         width='530.5px'
         height='577px'
-        className='face-image' />
+        className='face-image'
+        alt='my-face' />
         <div className='about-text'>
             <h1 className='small-title'>Who is Hamza?</h1>
             <h1 className='main-title'>About me <hr className='about-line'/></h1>
